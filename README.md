@@ -1,4 +1,4 @@
-[![aws-lc-rs](https://img.shields.io/badge/aws--lc--rs-crates.io-important)](https://crates.io/crates/aws-lc-rs)
+ [![aws-lc-rs](https://img.shields.io/badge/aws--lc--rs-crates.io-important)](https://crates.io/crates/aws-lc-rs)
 [![aws-lc-sys](https://img.shields.io/badge/aws--lc--sys-crates.io-important)](https://crates.io/crates/aws-lc-sys)
 [![aws-lc-fips-sys](https://img.shields.io/badge/aws--lc--fips--sys-crates.io-important)](https://crates.io/crates/aws-lc-fips-sys)
 
